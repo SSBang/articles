@@ -1,3 +1,8 @@
+---
+layout: post
+title: You're up and running!
+---
+
 # hi I'm ssbang
 
 - test page
